@@ -27,3 +27,7 @@ I'm a begginer developer currently learning about:
 - Java
 
 I also know about Oriented-Object Programming and next i will learn about Angular
+
+[![thisd92's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisd92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisd92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

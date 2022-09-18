@@ -23,10 +23,12 @@ I'm a begginer developer currently learning about:
   - TypeScript
   - ReactJs
   - VueJS
+  - Angular
 - Android
 - Java
 
-I also know about Oriented-Object Programming and next i will learn about Angular
+You can visit my website!
+(http://dev-th.com.br/)
 
 [![thisd92's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisd92&show_icons=true&theme=radical)](https://github.com/thisd92)
 

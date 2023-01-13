@@ -1,34 +1,44 @@
 ### Hi there 👋
 #### Good to see you here!
 
-<!--
-**thisd92/thisd92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EN
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a begginer developer currently learning about:
-- Web Development using:
-  - HTML, CSS 
-  - JavaScript
+Actually I'm a public employee, I have a degree in Systems Analysis and Development and I'm seeking job on this area:
+- I have Web Development projects using:
+  - HTML5
+  - CSS3
+  - Javascript
+  - jQuery
+  - Bootstrap
   - TypeScript
   - ReactJs
-  - VueJS
-  - Angular
-- Android
+I'm have projects too in Android and Java.
+
+-------------------------------------------------------------------------
+PT/BR
+
+Sou um servidor público recentemente formado em Análise e Desenvolvimento de Sistemas, que busca iniciar o sua carreira na área de formação.
+Desenvolvo projetos de aplicações WEB, principalmente, mas tenho também conhecimento em Java, realizando projetos de Backend, e também desenvolvi projeto de app Android.
+Com meus estudos e projetos desenvolvi habilidades em:
+- Web Development:
+  - HTML5
+  - CSS3
+  - Javascript
+  - jQuery
+  - Bootstrap
+  - TypeScript
+  - ReactJs
 - Java
+- Android/Java e iniciando Dart/Flutter
+- Firebase
+
+Nos estudos também aprendi sobre StyledComponentes, Tailwind.
+
 
 You can visit my website!
 (http://dev-th.com.br/)
+Or my GitHub Page!
+(https://thisd92.github.io)
 
 [![thisd92's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisd92&show_icons=true&theme=radical)](https://github.com/thisd92)
 

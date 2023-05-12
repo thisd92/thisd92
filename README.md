@@ -3,8 +3,8 @@
 
 EN
 
-Actually I'm a public employee, I have a degree in Systems Analysis and Development and I'm seeking job on this area:
-- I have Web Development projects using:
+Actually I'm a public employee, I have degree in Systems Analysis and Development and I'm seeking a new job with development.
+- Frontend projects using:
   - HTML5
   - CSS3
   - Javascript
@@ -12,31 +12,43 @@ Actually I'm a public employee, I have a degree in Systems Analysis and Developm
   - Bootstrap
   - TypeScript
   - ReactJs
-I'm have projects too in Android and Java.
+- Backend projects using:
+  - Java
+  - Spring
+- Banco de Dados
+  - MySQL
+  - Postgres
+  - Firebase
+
+I'm also have projects to Android using Java language.
 
 -------------------------------------------------------------------------
 PT/BR
 
-Sou um servidor público recentemente formado em Análise e Desenvolvimento de Sistemas, que busca iniciar o sua carreira na área de formação.
-Desenvolvo projetos de aplicações WEB, principalmente, mas tenho também conhecimento em Java, realizando projetos de Backend, e também desenvolvi projeto de app Android.
+Sou um servidor público formado em Análise e Desenvolvimento de Sistemas, que busca iniciar o sua carreira na área de formação.
+Desenvolvo projetos de aplicações WEB, utilizando VanillaJs e Reactjs, mas também tenho conhecimento em Java, realizando projetos de Backend. 
+Através de projetos da faculdade, desenvolvi projeto de app Android.
 Com meus estudos e projetos desenvolvi habilidades em:
-- Web Development:
+- Frontend/Web Development:
   - HTML5
   - CSS3
   - Javascript
-  - jQuery
-  - Bootstrap
   - TypeScript
   - ReactJs
-- Java
-- Android/Java e iniciando Dart/Flutter
-- Firebase
+  - jQuery
+  - Bootstrap
+- Backend:
+  - Java
+  - Spring
+- Banco de Dados
+  - MySQL
+  - Postgres
+  - Firebase
+Também construi projetos mobile, para Android.
 
-Nos estudos também aprendi sobre StyledComponentes, Tailwind.
-
-
-You can visit my website!
+You can visit my websites!
 (http://dev-th.com.br/)
+(http://dev-th.tech)
 Or my GitHub Page!
 (https://thisd92.github.io)
 

@@ -47,8 +47,11 @@ Com meus estudos e projetos desenvolvi habilidades em:
 Também construi projetos mobile, para Android.
 
 You can visit my websites!
+
 (http://dev-th.com.br/)
+
 (http://dev-th.tech)
+
 Or my GitHub Page!
 (https://thisd92.github.io)
 

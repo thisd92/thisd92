@@ -4,47 +4,39 @@
 EN
 
 Actually I'm a public employee, I have degree in Systems Analysis and Development and I'm seeking a new job with development.
-- Frontend projects using:
-  - HTML5
-  - CSS3
-  - Javascript
-  - jQuery
-  - Bootstrap
+- Frontend:
+  - HTML5/CSS3/Javascript
   - TypeScript
-  - ReactJs
-- Backend projects using:
-  - Java
-  - Spring
-- Banco de Dados
+  - ReactJs/Next.js
+- Backend:
+  - Java/Spring
+  - Node.js/Express
+- Databases
   - MySQL
   - Postgres
   - Firebase
-
-I'm also have projects to Android using Java language.
+  - MongoDB
 
 -------------------------------------------------------------------------
 PT/BR
 
-Sou um servidor público formado em Análise e Desenvolvimento de Sistemas, que busca iniciar o sua carreira na área de formação.
-Desenvolvo projetos de aplicações WEB, utilizando VanillaJs e Reactjs, mas também tenho conhecimento em Java, realizando projetos de Backend. 
-Através de projetos da faculdade, desenvolvi projeto de app Android.
-Com meus estudos e projetos desenvolvi habilidades em:
+Sou um servidor público, formado em Análise e Desenvolvimento de Sistemas, que busca iniciar o sua carreira na área de formação.
+Desenvolvo, principalmente, projetos de aplicações WEB, utilizando VanillaJs e Reactjs, mas também tenho conhecimento em Java, executando projetos de Backend. 
 - Frontend/Web Development:
-  - HTML5
-  - CSS3
-  - Javascript
+  - HTML5/CSS3/Javascript
   - TypeScript
-  - ReactJs
-  - jQuery
-  - Bootstrap
+  - ReactJs/Next.js
 - Backend:
-  - Java
-  - Spring
+  - Java/Spring
+  - Node.js/Express
 - Banco de Dados
   - MySQL
   - Postgres
   - Firebase
-Também construi projetos mobile, para Android.
+  - MongoDB
+
+
+-------------------------------------------------------------------------
 
 You can visit my websites!
 

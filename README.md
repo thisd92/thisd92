@@ -2,7 +2,7 @@
 #### Good to see you here!
 Welcome to my GitHub profile! I'm excited to share a bit about myself and my journey with you.
 
-####About Me
+#### About Me
 EN
 I am currently a public employee with a degree in Systems Analysis and Development, actively seeking new opportunities in software development. My primary focus is on creating dynamic and responsive web applications using TypeScript. Here’s a quick overview of my skills and projects:
 - Frontend:
@@ -46,9 +46,7 @@ Obrigado por visitar meu perfil e espero poder conectar com você em breve!
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/thiago-dutra-a8359a206/).
 
-You can visit my website!
-
-(http://dev-th.com.br/)
+You can visit my [website](http://dev-th.com.br/)!
 
 Or my [GitHub Page](https://thisd92.github.io)!
 

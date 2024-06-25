@@ -2,9 +2,18 @@
 #### Good to see you here!
 Welcome to my GitHub profile! I'm excited to share a bit about myself and my journey with you.
 
+
 #### About Me
-EN
+
+`EN`
+
 I am currently a public employee with a degree in Systems Analysis and Development, actively seeking new opportunities in software development. My primary focus is on creating dynamic and responsive web applications using TypeScript. Here’s a quick overview of my skills and projects:
+
+`PT/BR`
+
+Sou um servidor público formado em Análise e Desenvolvimento de Sistemas e estou buscando iniciar minha carreira na área de formação. Desenvolvo principalmente projetos de aplicações WEB utilizando TypeScript. Aqui está um resumo das minhas habilidades e projetos:
+
+
 - Frontend:
   - HTML5/CSS3/Javascript
   - TypeScript
@@ -17,24 +26,6 @@ I am currently a public employee with a degree in Systems Analysis and Developme
   - Postgres (TypeORM)
   - Firebase
   - MongoDB (Mongoose)
-
--------------------------------------------------------------------------
-PT/BR
-
-Sou um servidor público formado em Análise e Desenvolvimento de Sistemas e estou buscando iniciar minha carreira na área de formação. Desenvolvo principalmente projetos de aplicações WEB utilizando TypeScript. Aqui está um resumo das minhas habilidades e projetos:
-- Frontend/Web Development:
-  - HTML5/CSS3/Javascript
-  - TypeScript
-  - ReactJs/Next.js
-- Backend:
-  - Java/Spring
-  - Node.js/Express/NestJs
-- Banco de Dados
-  - MySQL (Sequelize)
-  - Postgres (TypeORM)
-  - Firebase
-  - MongoDB (Mongoose)
-
 
 -------------------------------------------------------------------------
 
